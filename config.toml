@@ -1,0 +1,4 @@
+baseURL = "https://kidspoemreu.vercel.app"
+languageCode = "en-us"
+title = "Poems For Kids In English"
+theme = "hugo-theme-minos"
